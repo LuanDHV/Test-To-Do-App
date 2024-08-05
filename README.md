@@ -77,11 +77,11 @@ to the repo via email to `binhdv@thenowproject.com.vn` and
 
 ## Checklist
 
-- [ ] Finish Question 1
-- [ ] Finish Question 2
-- [ ] Finish Question 3
-- [ ] Finish Question 4
-- [ ] Finish Question 5
-- [ ] Finish Question 6
-- [ ] Run `yarn lint` with no errors
-- [ ] Run `yarn type-check` with no errors
+- [v] Finish Question 1
+- [v] Finish Question 2
+- [v] Finish Question 3
+- [v] Finish Question 4
+- [v] Finish Question 5
+- [v] Finish Question 6
+- [x] Run `yarn lint` with no errors
+- [v] Run `yarn type-check` with no errors
